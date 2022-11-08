@@ -3,3 +3,9 @@
 
 # Data files
 data
+
+# Don't expose the API key
+api_key.py
+
+# Python 
+__pycache__
